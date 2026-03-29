@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp:*)",
+      "Bash(where claude:*)",
+      "Read(//c/Users/Andre/AppData/Local/Programs/**)",
+      "Read(//c/Users/Andre/AppData/Roaming/npm/**)",
+      "mcp__claude_ai_Wrike__wrike_search_tasks",
+      "Bash(git config:*)",
+      "Bash(ssh-keygen -F github.com)",
+      "Bash(ssh -T git@github.com)"
+    ]
+  }
+}
